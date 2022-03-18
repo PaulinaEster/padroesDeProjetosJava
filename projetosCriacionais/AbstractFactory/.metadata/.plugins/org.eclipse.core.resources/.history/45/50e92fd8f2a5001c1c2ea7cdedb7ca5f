@@ -1,0 +1,10 @@
+import factory.ServicesAbstractFactory;
+
+public class Client {
+
+	public static void main(String[] args) {
+		ServicesAbstractFactory factory = null; 
+		
+	}
+
+}

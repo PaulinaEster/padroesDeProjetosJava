@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="factory.IPhoneXFactory"/>
+    <fullyQualifiedTypeName name="model.IPhoneXSMax"/>
+    <fullyQualifiedTypeName name="factory.IPhone11Factory"/>
+    <fullyQualifiedTypeName name="model.IPhoneX"/>
+    <fullyQualifiedTypeName name="model.IPhone11Pro"/>
+    <fullyQualifiedTypeName name="model.IPhone11"/>
+    <fullyQualifiedTypeName name="factory.IPhoneFactory"/>
+    <fullyQualifiedTypeName name="model.IPhone"/>
+    <fullyQualifiedTypeName name="model.OracleDB"/>
+    <fullyQualifiedTypeName name="model.PostgresDB"/>
+    <fullyQualifiedTypeName name="factory.OracleDBFactory"/>
+    <fullyQualifiedTypeName name="factory.DBFactory"/>
+    <fullyQualifiedTypeName name="model.DB"/>
+    <fullyQualifiedTypeName name="factory.PostgresDBFactory"/>
+</qualifiedTypeNameHistroy>

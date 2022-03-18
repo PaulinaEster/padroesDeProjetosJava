@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.Certificate"/>
+    <fullyQualifiedTypeName name="factory.rulesFactory.ContryRulesAbstractFactory"/>
+    <fullyQualifiedTypeName name="model.certificate.Certificate"/>
+    <fullyQualifiedTypeName name="model.pack.Packing"/>
+    <fullyQualifiedTypeName name="model.IPhone.IPhoneX"/>
+    <fullyQualifiedTypeName name="model.IPhone.IPhoneXSMax"/>
+    <fullyQualifiedTypeName name="model.IPhone.IPhone11"/>
+    <fullyQualifiedTypeName name="model.IPhone.IPhone11Pro"/>
+    <fullyQualifiedTypeName name="factory.rulesFactory.CountryRulesAbstractFactory"/>
+    <fullyQualifiedTypeName name="factory.iphoneFactory.IPhoneFactory"/>
+    <fullyQualifiedTypeName name="model.IPhone.IPhone"/>
+    <fullyQualifiedTypeName name="model.certificate.BrazilianCertificate"/>
+    <fullyQualifiedTypeName name="model.pack.BrazilianPacking"/>
+    <fullyQualifiedTypeName name="model.certificate.USACertificate"/>
+    <fullyQualifiedTypeName name="model.pack.USAPacking"/>
+    <fullyQualifiedTypeName name="factory.iphoneFactory.IPhoneXFactory"/>
+    <fullyQualifiedTypeName name="model.pack.ArgentinaPacking"/>
+    <fullyQualifiedTypeName name="model.certificate.ArgentinaCertificate"/>
+    <fullyQualifiedTypeName name="model.carService.CarService"/>
+    <fullyQualifiedTypeName name="model.userService.UserEJBService"/>
+    <fullyQualifiedTypeName name="model.carService.CarEJBService"/>
+    <fullyQualifiedTypeName name="model.userService.UserRestService"/>
+    <fullyQualifiedTypeName name="model.carService.CarRestService"/>
+    <fullyQualifiedTypeName name="factory.ServicesAbstractFactory"/>
+    <fullyQualifiedTypeName name="model.userService.UserService"/>
+    <fullyQualifiedTypeName name="model.EJABService.EJABUserService"/>
+    <fullyQualifiedTypeName name="model.restService.RestUserService"/>
+    <fullyQualifiedTypeName name="model.EJABService.EJABCarService"/>
+    <fullyQualifiedTypeName name="model.restService.RestCarService"/>
+    <fullyQualifiedTypeName name="factory.ServiceAbstractFactory"/>
+    <fullyQualifiedTypeName name="model.EJABService.EJABService"/>
+    <fullyQualifiedTypeName name="model.restService.RestService"/>
+    <fullyQualifiedTypeName name="factory.CarAbstractFactory"/>
+</qualifiedTypeNameHistroy>

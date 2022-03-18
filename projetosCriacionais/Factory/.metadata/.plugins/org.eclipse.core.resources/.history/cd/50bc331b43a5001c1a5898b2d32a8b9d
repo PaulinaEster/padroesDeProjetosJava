@@ -1,0 +1,10 @@
+import model.IPhone;
+
+public class Client {
+	public void main(String[] args) {
+		
+		IPhone device = null;
+		
+		
+	}
+}

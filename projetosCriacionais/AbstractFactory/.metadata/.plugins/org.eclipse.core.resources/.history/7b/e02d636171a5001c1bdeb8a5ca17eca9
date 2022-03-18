@@ -1,0 +1,12 @@
+package factory;
+
+import model.IPhone.IPhone;
+
+public abstract class IPhoneFactory {
+	
+	public abstract IPhone crateIPhone();
+	
+	public IPhone orderIPhone() {
+		return null;
+	}
+}

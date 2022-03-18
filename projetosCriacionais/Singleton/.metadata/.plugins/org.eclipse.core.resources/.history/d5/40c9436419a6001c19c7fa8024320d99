@@ -1,0 +1,12 @@
+package conn;
+
+public class Client {
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void doQuery(String to, String from) {
+		ConnectionPool pool = ConnectionPool.getInstance();
+		Connection conn = pool.getConnection();
+	}
+}

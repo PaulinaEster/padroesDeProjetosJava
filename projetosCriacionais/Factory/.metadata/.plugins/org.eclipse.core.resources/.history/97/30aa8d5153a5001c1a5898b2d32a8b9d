@@ -1,0 +1,16 @@
+package factory;
+
+import model.DB;
+
+public abstract class DBFactory {
+
+	public abstract DB conectDB(String sql);
+	
+	public DB ortherDB(String sql) {
+		DB db = conectDB(sql);
+		db.query(sql);
+		db.update(sql);
+		
+		return null;
+	}
+}

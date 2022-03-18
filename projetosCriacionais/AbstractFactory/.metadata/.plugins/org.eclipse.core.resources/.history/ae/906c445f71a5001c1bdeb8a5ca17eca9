@@ -1,0 +1,10 @@
+package factory;
+
+public abstract class IPhoneFactory {
+	
+	public abstract IPhone crateIPhone();
+	
+	public IPhone orderIPhone() {
+		
+	}
+}

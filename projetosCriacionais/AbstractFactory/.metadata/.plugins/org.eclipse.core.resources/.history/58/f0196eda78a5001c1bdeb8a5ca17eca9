@@ -1,0 +1,18 @@
+package factory.iphoneFactory;
+
+import model.IPhone.IPhone;
+
+public class IPhone11Factory extends IPhoneFactory{
+
+	public IPhone11Factory() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public IPhone crateIPhone() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

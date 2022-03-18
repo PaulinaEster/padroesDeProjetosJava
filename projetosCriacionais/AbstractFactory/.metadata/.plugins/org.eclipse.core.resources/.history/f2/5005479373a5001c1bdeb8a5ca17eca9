@@ -1,0 +1,5 @@
+package model.pack;
+
+public interface Packing {
+	public pack();
+}

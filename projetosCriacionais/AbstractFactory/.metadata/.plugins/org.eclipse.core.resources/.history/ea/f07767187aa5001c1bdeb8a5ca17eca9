@@ -1,0 +1,10 @@
+package model.certificate;
+
+public class USACertificate implements Certificate{
+
+	@Override
+	public String applyCertification() {
+		return "Certificados verificados!";
+	}
+
+}

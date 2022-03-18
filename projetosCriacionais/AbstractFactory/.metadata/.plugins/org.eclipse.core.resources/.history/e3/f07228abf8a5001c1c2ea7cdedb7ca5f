@@ -1,0 +1,15 @@
+import factory.ServiceAbstractFactory;
+import model.EJABService.EJABService;
+import model.restService.RestService;
+
+public class Client {
+
+	public static void main(String[] args) {
+		
+		ServiceAbstractFactory factory = null;
+		EJABService ejab = null;
+		RestService rest = null;
+		
+	}
+
+}

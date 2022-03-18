@@ -1,0 +1,23 @@
+import factory.*;
+import model.EJABService.EJABService;
+import model.restService.RestService;
+
+public class Client {
+
+	public static void main(String[] args) {
+		
+		ServiceAbstractFactory factory = null;
+		EJABService ejab = null;
+		RestService rest = null;
+		
+		factory = new CarAbstractFactory();
+		ejab = factory.getEJABSerice();
+		
+		factory = new UserAbstractFactory();
+		rest = factory.getRestService();
+		System.out.println(rest.save());
+		rest.update();
+	
+	}
+
+}

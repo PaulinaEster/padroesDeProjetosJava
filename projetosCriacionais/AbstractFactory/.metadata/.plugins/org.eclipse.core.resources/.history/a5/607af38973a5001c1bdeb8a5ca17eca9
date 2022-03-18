@@ -1,0 +1,11 @@
+package factory.rulesFactory;
+
+import model.certificate.Certificate;
+import model.pack.Packing;
+
+public abstract class ContryRulesAbstractFactory {
+	public abstract Certificate getCertificates();
+	
+	public abstract Packing getPacking();
+	
+}

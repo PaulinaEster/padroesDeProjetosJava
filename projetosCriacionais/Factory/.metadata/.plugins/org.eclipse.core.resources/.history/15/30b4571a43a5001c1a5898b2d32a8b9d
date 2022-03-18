@@ -1,0 +1,13 @@
+package factory;
+
+import model.IPhone;
+
+public abstract class IPhoneFactory {
+	public abstract IPhone createIPhone(String model);
+	
+	public IPhone ortherIPhone(String model) {
+		return this.createIPhone(model);
+	}
+	
+
+}

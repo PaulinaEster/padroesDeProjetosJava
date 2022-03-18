@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/paulinarehbein/Documents/cursos/padroesDeProjetos/projetosCriacionais/Singleton/.metadata/.plugins/org.eclipse.jdt.core
+3733133879.index
+1865797976.index
+3198241566.index

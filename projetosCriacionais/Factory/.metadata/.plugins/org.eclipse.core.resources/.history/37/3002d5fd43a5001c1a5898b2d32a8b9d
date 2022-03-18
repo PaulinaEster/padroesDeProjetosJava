@@ -1,0 +1,19 @@
+
+import factory.IPhoneFactory;
+import factory.IPhoneXFactory;
+import model.IPhone;
+
+public class Client {
+	public void main(String[] args) {
+		
+		IPhone device = null;
+		String model = "Basic";
+		IPhoneFactory genXFactory = new IPhoneXFactory();
+		System.out.println("## Gerando IPhoneX ##");
+		device = genXFactory.ortherIPhone(model);
+		System.out.println(device);
+		
+		
+		
+	}
+}

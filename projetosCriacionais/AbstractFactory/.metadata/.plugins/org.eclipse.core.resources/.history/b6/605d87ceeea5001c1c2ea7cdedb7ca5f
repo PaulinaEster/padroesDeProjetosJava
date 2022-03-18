@@ -1,0 +1,5 @@
+package model.userService;
+
+public class UserEJBService implements UserService{
+
+}

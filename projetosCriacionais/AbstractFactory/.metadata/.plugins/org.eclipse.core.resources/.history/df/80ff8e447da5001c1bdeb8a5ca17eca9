@@ -1,0 +1,16 @@
+
+import factory.iphoneFactory.IPhoneFactory;
+import factory.rulesFactory.*;
+import model.IPhone.IPhone;
+
+public class Client {
+	public static void main(String[] args) {
+		
+		CountryRulesAbstractFactory rules = null;
+		IPhoneFactory factory = new IPhoneFactory(new CountryRulesAbstractFactory());
+		IPhone device = null;
+		
+		device =  factory.
+		
+	}
+}

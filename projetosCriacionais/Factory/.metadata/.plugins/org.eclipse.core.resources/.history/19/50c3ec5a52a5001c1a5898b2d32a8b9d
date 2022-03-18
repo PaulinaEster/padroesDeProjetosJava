@@ -1,0 +1,17 @@
+package model;
+
+public class OracleDB implements DB{
+
+	@Override
+	public void query(String sql) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void update(String sql) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

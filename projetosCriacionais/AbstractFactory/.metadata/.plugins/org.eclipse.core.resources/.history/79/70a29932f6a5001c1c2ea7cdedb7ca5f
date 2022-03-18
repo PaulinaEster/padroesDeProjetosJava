@@ -1,0 +1,8 @@
+package factory;
+
+import model.EJABService.EJABService;
+
+public interface ServiceAbstractFactory {
+	public EJABService getEJABSerice();
+	public RestService getRestService();
+}

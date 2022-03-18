@@ -1,0 +1,9 @@
+package model;
+
+public class IPhoneXSMax extends IPhone{
+	public void getHardware() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

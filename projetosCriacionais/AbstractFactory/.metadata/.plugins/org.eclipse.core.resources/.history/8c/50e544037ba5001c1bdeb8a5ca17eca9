@@ -1,0 +1,22 @@
+package factory.iphoneFactory;
+
+import factory.rulesFactory.ContryRulesAbstractFactory;
+import model.IPhone.IPhone;
+
+public abstract class IPhoneFactory {
+	
+	
+	ContryRulesAbstractFactory rules;
+	
+	public IPhoneFactory(ContryRulesAbstractFactory rules) {
+		this.rules = rules;
+	}
+
+	public abstract IPhone crateIPhone();
+	
+	public IPhone orderIPhone() {
+		
+		
+		return null;
+	}
+}

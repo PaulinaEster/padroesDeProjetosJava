@@ -1,0 +1,15 @@
+package factory.rulesFactory;
+
+import model.certificate.Certificate;
+import model.pack.Packing;
+
+public class BrazilianRulesAbstractFactory {
+	public Certificate getCertificates() {
+		return null;
+	}
+	
+	public Packing getPacking() {
+		
+		return null;
+	}
+}

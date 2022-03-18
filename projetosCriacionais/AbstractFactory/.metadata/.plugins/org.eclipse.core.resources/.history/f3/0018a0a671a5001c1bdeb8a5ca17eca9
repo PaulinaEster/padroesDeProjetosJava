@@ -1,0 +1,5 @@
+package factory.rulesFactory;
+
+public class USARulesAbstractFactory {
+
+}

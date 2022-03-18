@@ -1,0 +1,5 @@
+package model.certificate;
+
+public class BrazilianCertificate {
+
+}

@@ -1,0 +1,9 @@
+package model;
+
+public class IPhone11 extends IPhone{
+	public void getHardware() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

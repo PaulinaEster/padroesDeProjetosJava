@@ -1,0 +1,13 @@
+package factory.iphoneFactory;
+
+import model.IPhone.IPhone;
+
+public class IPhoneXFactory extends IPhoneFactory{
+
+	@Override
+	public IPhone crateIPhone() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

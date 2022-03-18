@@ -1,0 +1,9 @@
+package factory;
+
+public class DBFactory {
+
+	
+	public void ortherDB(String sql) {
+		
+	}
+}

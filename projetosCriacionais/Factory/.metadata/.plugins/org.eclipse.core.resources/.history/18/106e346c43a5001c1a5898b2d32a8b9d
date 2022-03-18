@@ -1,0 +1,19 @@
+import factory.IPhoneFactory;
+import factory.IPhoneXFactory;
+import model.IPhone;
+
+public class Client {
+	public void main(String[] args) {
+		
+		IPhone device = null;
+		
+		IPhoneFactory genXFactory = new IPhoneXFactory();
+		
+		
+		String modelo = "Simple";
+		
+		
+		
+		
+	}
+}

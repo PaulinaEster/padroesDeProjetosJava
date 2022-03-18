@@ -1,0 +1,11 @@
+package model.pack;
+
+public class BrazilianPacking implements Packing{
+
+	@Override
+	public void pack() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

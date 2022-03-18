@@ -1,0 +1,18 @@
+import factory.*;
+import model.userService.UserService;
+
+public class Client {
+
+	public static void main(String[] args) {
+		ServicesAbstractFactory factory = null;
+		UserService userService = null;
+		
+		
+		factory = new RestAbstractFactory();
+		userService = factory.getUserService();
+		userService.save();
+		System.out.println(userService);
+		
+	}
+
+}

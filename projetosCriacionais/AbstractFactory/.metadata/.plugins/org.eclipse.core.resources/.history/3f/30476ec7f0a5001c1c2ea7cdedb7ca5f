@@ -1,0 +1,20 @@
+package factory;
+
+import model.carService.CarService;
+import model.userService.UserService;
+
+public class EJBAbstractFactory implements ServicesAbstractFactory{
+
+	@Override
+	public UserService getUserService() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CarService getCarService() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

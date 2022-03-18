@@ -1,0 +1,19 @@
+package factory.iphoneFactory;
+
+import factory.rulesFactory.ContryRulesAbstractFactory;
+import model.IPhone.IPhone;
+
+public class IPhoneXFactory extends IPhoneFactory{
+
+	public IPhoneXFactory(ContryRulesAbstractFactory rules) {
+		super(rules);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public IPhone createIPhone(String level) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

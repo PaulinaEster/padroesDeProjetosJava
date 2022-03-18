@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/paulinarehbein/Documents/cursos/padroesDeProjetos/projetosCriacionais/AbstractFactory/.metadata/.plugins/org.eclipse.jdt.core
+965077567.index
+1865797976.index
+393160455.index
+674509069.index

@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="builder.FastFoodMealBuilder"/>
+    <fullyQualifiedTypeName name="director.MealDirector"/>
+    <fullyQualifiedTypeName name="builder.FatMealBuilder"/>
+    <fullyQualifiedTypeName name="builder.JustFriesBuilder"/>
+    <fullyQualifiedTypeName name="model.builder.FastFoodMealBuilder"/>
+    <fullyQualifiedTypeName name="model.FastFoodMeal"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

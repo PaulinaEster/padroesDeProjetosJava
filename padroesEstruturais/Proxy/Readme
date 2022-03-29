@@ -1,0 +1,4 @@
+Classe intermediaria entre cliente e outras classes que faz o controle das classes 
+que o cliente pode acessar e como vai acessar.
+
+

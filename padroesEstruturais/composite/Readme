@@ -1,0 +1,11 @@
+problema: Como é possivel criar uma estrutura onde uma unidade e um conjunto delas possam ser tratadas de forma transaparente sem diferenca?
+
+por exemplo: 
+	ter um arquivo que é uma unidade. e ter uma pasta que tem varias unidades dentro dela
+	
+	
+solucao: Definido uma composição que possa comportar tanto um elemento apenas quanto um conjunto desses mesmos elementos.
+
+definicao: compor objetos em estrutura de arvores para apresentar hierarquias todo-parte. 
+	Composite permite que clientes tratem objetos individuais e composições de objetos de maneira uniforme
+

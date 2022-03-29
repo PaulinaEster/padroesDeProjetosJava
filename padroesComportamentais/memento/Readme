@@ -1,0 +1,10 @@
+PROBLEMA:
+	Como o objeto pode capturar seu estado interno para poder ser restaurado posteriormente?
+
+SOLUÇÃO:
+	Definir uma estrutura de memento onde cada estado podera ser salvo e restaurado quando necessario.
+
+DEFINIÇÃO:
+	Sem violar o emcapsulamento, captuara e externizar o estado interno de um objeto para que o objeto possa ter esse estado restaudado posteriormente
+
+

@@ -1,0 +1,2 @@
+Esse padrao tenta tornar a interface mais simples pro cliente, ela simplifica metodos complexos que sem ela ficariam na interface.
+Alem disso ela faz o emcapsulamento de classes e mostra apenas o que realmente importa para o cliente

@@ -1,0 +1,11 @@
+Tem objetivo de conctar dois lados
+por exemplo:
+	Disponibilizar um determinado conteudo em diferentes tipos como JSON, txt, XML e precisamos converter 
+	conteudos que estao em txt para JSON ou XML;
+	
+outro exemplo:
+	Precisar usar varios tipos de servicos diferentes como Rest, EJB, Soap, para acessar bancos de dados diferentes como MySQL, Oracle, Postgres.
+	
+O padrao Bridge permite converter fazer essas ponte entre as conversoes de uma forma otimizada;
+ele permite usar varios tipos diferentes de servicos sem ter um grande acoplamento;
+	

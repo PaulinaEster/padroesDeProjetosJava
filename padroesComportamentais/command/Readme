@@ -1,0 +1,12 @@
+PROBLEMA:
+	- Como posso representar uma requisisão dentro de um objeto?
+	- Preciso fazer uma requisição mas não sei como ela será resolvida ou até mesmo quem irá respondê-lá.
+	
+SOLUÇÃO:
+	- Encapsular a requisição em um objeto command separado;
+	- o camando não tem os detalhes de quem e como será resolvido.
+	
+
+DEFINIÇÃO:
+	Encampular uma requisição como um objeto, permitindo que clientes parametrizem diferentes requisições, 
+	filas ou requisições de log, e suportar operações reversíveis.

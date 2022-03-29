@@ -1,0 +1,4 @@
+O padrao Flyweight se usado corretamente possibilita um uso menor de memoria, pois esse padrao usa também o padrao singleton e o Factory
+ o que faz com que determinador objetos sejam instanciados apenas uma vez e usados ao longo do código.
+esse padrao é mais usado em objetos que tem atributos mutaveis e atributos imutaveis.
+

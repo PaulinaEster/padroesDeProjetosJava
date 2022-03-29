@@ -1,0 +1,6 @@
+Adaptando bem, todo mundo se integra.
+
+o adapter é usado quando temos duas interfaces incompativeis e queremos que essas interfaces começam a conversar usando uma classe adapter (Adaptador)
+para adaptar uma interface á outra.
+
+

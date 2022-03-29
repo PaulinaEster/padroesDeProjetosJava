@@ -1,0 +1,13 @@
+PROBLEMA:
+	- Como uma classe pode utilizar um algoritmo definido dinamicamente?
+	- Como posso selecionar e trocar uma lógica em tempo de execução?
+
+SOLUÇÃO:
+	- Encapsular os algoritmos possíveis para o mesmo problema em uma estrutura de strategy;
+	- O cliente irá delegar a execução para estas estratégias ao inves de possuir toda a lógica internamente.
+
+
+DEFINIÇÃO:
+	- Definir uma familia de algoritmos, emcapsular cada um, e faze-los intercambiaveis. 
+		Strategy permite que algoritmos mudem independentemente entre cliente que o utilizam.
+

@@ -1,0 +1,14 @@
+PROBLEMA: 
+	Como posso adicionar funcionalidades dinamicamente em um objeto?
+	
+	exemplo: 
+		
+	
+	
+SOLUÇÃO:
+	Com objetos decorators é possivel adicionar novas responsabilidades para um objeto.
+	
+
+DEFINIÇÃO:
+	Anexar responsabilidades adicionais a um objeto dinamicamente. 
+	Decorators oferece uma alternativa flexível ao uso de herança para estender uma funcionalidade.

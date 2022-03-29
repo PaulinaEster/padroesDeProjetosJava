@@ -1,0 +1,2 @@
+Mediator facilita a comunicação entre muitos OBJETOS
+por exemplo varios  usuarios terem que se comunicar entre si, o mediator faz essa comunicação.

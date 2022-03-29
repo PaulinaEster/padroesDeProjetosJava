@@ -1,0 +1,12 @@
+PROBLEMA:
+	Como posso navegar através de uma coleção de objetos sem a necessidade de conhecer os detalhes desta estrutura?
+	
+	exemplo: 
+		carrinho de compra
+			nao preciso saber como é organizado, e quais elementos tem mas quero percorrer ele.
+	
+SOLUÇÃO:
+	Encapsular a lógica de navegação entre os elementos desta coleção em uma estrutura de iterator.
+
+DEFINIÇÃO:
+	Prover uma maneira de acessar os elementos de um objeto agrgado sequencialmente sem expor sua representação interna.

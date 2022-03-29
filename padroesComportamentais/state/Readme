@@ -1,0 +1,14 @@
+PROBLEMA:
+	- Como posso alterar o comportamento de um objeto quando seu estado interno muda?
+	- Comom permitir que novos comportamentos seham adicionados e integrados com os demais?
+
+SOLUÇÃO:
+	- Modelar os comportamentos possiveis através de states;
+	- Definir como serão realizadas as mudanças de estados;
+	- Cada estate irá tomar controle da execução de acordo com o estado interno do objeto
+
+
+DEFINIÇÃO:
+	Permitir a um obejto alterar seu comportamento quando o seu estado interno mudar. 
+	O objeto irá aparentar mudar de classe.
+

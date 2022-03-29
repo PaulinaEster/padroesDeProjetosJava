@@ -1,0 +1,13 @@
+PROBLEMA:
+	- Como eu posso unir partes de um código que não variam com partes variaveis?
+	- Como posso alterar certos pontos de código mantendo uma estrutura geral?
+
+SOLUÇÃO:
+	- Definir uma abstração com todas os pontos que podem ser veriados;
+	- Criar uma template que contenha as partes fixas e possua pontos de chamadas para as partes variáveis;
+
+DEFINIÇÃO:
+	Definir o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos
+	pelas subclasses. Template Method permite que suas subclasses redefinem certos pessos de um
+	algoritmo sem muudar sua estrutura.
+
